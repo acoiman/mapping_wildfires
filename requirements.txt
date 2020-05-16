@@ -1,2 +1,5 @@
-bs4
 folium
+matplotlib
+pyshp
+geopy
+geopandas
