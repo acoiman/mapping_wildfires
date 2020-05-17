@@ -8,5 +8,4 @@ matplotlib
 numpy
 pandas
 PySAL
-Rtree
 Shapely
