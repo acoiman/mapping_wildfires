@@ -14,6 +14,5 @@ numpy==1.12.1
 pandas==0.20.1
 PySAL==1.13.0
 Rtree==0.8.3
-scipy==0.19.0
 Shapely==1.5.17.post1
 widgetsnbextension==2.0.0
