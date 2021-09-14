@@ -5,7 +5,7 @@
 
 Mapping VIIRS Active Fires in South America
 
-We demonstrate how to map VIIRS-AFs in any country in [South America](https://en.wikipedia.org/wiki/South_America)using [Geopanadas](https://geopandas.org/) for data processing and [Folium](http://python-visualization.github.io/folium/) for map visualization.
+We demonstrate how to map VIIRS-AFs in any country in [South America](https://en.wikipedia.org/wiki/South_America) using [Geopanadas](https://geopandas.org/) for data processing and [Folium](http://python-visualization.github.io/folium/) for map visualization.
 
 
 
