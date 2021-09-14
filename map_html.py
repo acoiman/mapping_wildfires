@@ -1,4 +1,4 @@
-# custom module for Folium map legend 
+# custom module to create a legend in a Folium Map 
 
 from branca.element import Template, MacroElement
 
@@ -61,7 +61,7 @@ def legend(map):
             </p>
           </div>
           <div class="right"> 
-            <img width="30" height="30" src="icons/fire24.png" alt="fire 24h"/>  
+            <img width="30" height="30" src="https://raw.githubusercontent.com/acoiman/mapping_wildfires/master/icons/fire24.png"  alt="fire 24h"/> 
           </div>
         </div>
 
@@ -72,7 +72,7 @@ def legend(map):
             </p>
           </div>
           <div class="right"> 
-            <img width="30" height="30" src="icons/fire48.png" alt="fire 48h"/>  
+            <img width="30" height="30" src="https://raw.githubusercontent.com/acoiman/mapping_wildfires/master/icons/fire48.png" alt="fire 48h"/>  
           </div>
         </div>
 
@@ -83,7 +83,7 @@ def legend(map):
             </p>
           </div>
           <div class="right"> 
-            <img width="30" height="30" src="icons/fire7d.png" alt="fire 7d"/>  
+            <img width="30" height="30" src="https://raw.githubusercontent.com/acoiman/mapping_wildfires/master/icons/fire7d.png" alt="fire 7d"/>  
           </div>
         </div>
         <br>
